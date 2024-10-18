@@ -121,11 +121,11 @@
 
         layer_0 {
             bindings = <
-&lt 4 ESC     &kp Q  &kp W      &kp E      &kp R            &kp T             &kp Y         &kp U         &kp I         &kp O        &kp P     &kp BACKSLASH
-&kp GRAVE     &kp A  &kp S      &kp D      &kp F            &kp G             &kp H         &kp J         &kp K         &kp L        &kp SEMI  &kp SQT
-&kp CAPS      &kp Z  &kp X      &kp C      &kp V            &kp B             &kp N         &kp M         &kp COMMA     &kp DOT      &kp FSLH  &kp BSLH
-                                &kp LC(C)  &kp LC(V)        &lt 1 DEL         &kp SPACE     &kp BSPC      &lt 2 ENTER   &kp LBKT     &kp RBKT
-                                &kp LALT   &lt 3 LEFT       &kp LSHFT         &kp TAB       &kp UP        &kp RCTRL     &lt 4 RIGHT  &kp DOWN  
+&lt 4 ESC     &kp Q  &kp W      &kp E      &kp R            &kp T             &kp Y           &kp U         &kp I         &kp O        &kp P     &kp BACKSLASH
+&kp GRAVE     &kp A  &kp S      &kp D      &kp F            &kp G             &kp H           &kp J         &kp K         &kp L        &kp SEMI  &kp SQT
+&kp CAPS      &kp Z  &kp X      &kp C      &kp V            &kp B             &kp N           &kp M         &kp COMMA     &kp DOT      &kp FSLH  &kp BSLH
+                                &kp LC(C)  &kp LC(V)        &lt 3 DEL         &lt 1 SPACE     &lt 2 BSPC    &lt 4 ENTER   &kp LBKT     &kp RBKT
+                                &kp LALT   &lt 3 LEFT       &kp LSHFT         &kp TAB         &kp UP        &kp RCTRL     &kp RIGHT    &kp DOWN  
             >;
         };
 
